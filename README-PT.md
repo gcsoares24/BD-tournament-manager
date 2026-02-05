@@ -3,7 +3,7 @@
 This README is also available in English. [Click here](README.md)
 
 Project made by:
-[Guilherme Soares](https://github.com/guimbreon) && [Vitória Correia](https://github.com/vitoriateixeiracorreia)
+[Guilherme Soares](https://github.com/gcsoares24) && [Vitória Correia](https://github.com/vitoriateixeiracorreia)
 ## Descrição
 
 Este projeto é um sistema de gestão de torneios, permitindo administrar edições, fases, encontros, jogadores, equipas e bilhetes. Ele foi desenvolvido como parte da disciplina de **Bases de Dados** no ano letivo 2024/25.
